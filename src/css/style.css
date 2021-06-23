@@ -124,6 +124,10 @@ sup {
   height: 300px;
 }
 
+.nav-tabs {
+  border: none;
+}
+
 .help-text {
   text-align: center;
   font-size: 2rem;
